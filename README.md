@@ -2,7 +2,7 @@
 
 > 하버드 코딩 입문 강의, CS50x 2026을 함께 공부하기 위한 웹 스터디 가이드입니다.
 
-🔗 **사이트 바로가기**: [imjunse.github.io/cs50-study](https://imjunse.github.io/cs50-study/)
+🔗 **사이트 바로가기**: [https://cs50-study.pages.dev/](https://cs50-study.pages.dev/)
 
 ## 이 사이트는 뭔가요?
 
@@ -36,7 +36,7 @@
 
 ## 기술 스택
 
-React · Vite · react-router-dom · react-youtube · GitHub Pages
+React · Vite · react-router-dom · react-youtube · Cloudflare Pages
 
 ## 만든 사람
 
